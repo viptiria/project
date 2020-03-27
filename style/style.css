@@ -147,12 +147,12 @@ background: rgba(0, 0, 0, 0.8);
 
 @media (pointer: coarse) and (hover: none) {
 	
-  .header_1 {
+  /*.header_1 {
     background: url(img/sx.jpg) black no-repeat center center scroll;
   }
   .header_1 video {
     display: none;
-  }
+  }*/
   .log img {
   width: 90%;
   } 
